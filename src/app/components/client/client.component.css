@@ -1,0 +1,29 @@
+/* Estilos generales del formulario */
+form {
+    width: 100%;
+    max-width: 400px; /* Ancho máximo del formulario */
+    margin: auto; /* Centrar el formulario en la página */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos de los campos de formulario */
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 20px; /* Espacio entre campos de formulario */
+  }
+  
+  /* Estilos para el botón de submit */
+  button[type="submit"] {
+    margin-right: 10px; /* Espacio entre botones */
+  }
+  
+  /* Estilos para el botón de limpiar */
+  button[type="button"] {
+    background-color: #e0e0e0; /* Color de fondo del botón de limpiar */
+    color: #333; /* Color del texto del botón de limpiar */
+  }
+  
+ 
+  
+  
